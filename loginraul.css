@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+.cuerpo{ 
+	background-attachment: fixed;
+	background-image:url(Imagenes/conexion web.jpg);
+	background-repeat: no-repeat; 
+	background-position: center; 
+	background-size:100% ; 
+} 
+
+.ADMIN{
+	font-size: 1em;
+}
+.inicio{ 
+	height: 40%; 
+	position:absolute; 
+	left: 35%;
+	right: 35%; 
+	top:25%;
+	bottom:40%;
+	border-radius:7%; 
+	border:groove; 
+	background-color:#FFB428;
+} 
+.user{ 
+	position:relative; 
+	top: 40%;
+	left: 15%; 
+}
+.txin{ 
+	margin-left:10%;
+}
+
+.txin1{ 
+	margin-left:15%;
+} 
+.btn{ 
+	margin-left:23%;
+	margin-top:5%;
+	border-radius:15%;
+} 
+.p{ 
+	margin-left:17%;
+	margin-bottom:10%;
+}
